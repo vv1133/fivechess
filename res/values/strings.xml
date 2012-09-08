@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FiveTestActivity!</string>
+    <string name="app_name">FiveTest</string>
+	<string name="btn1_name">Start</string>
+	<string name="btn2_name">OK</string>
+	<string name="image_desc">image view</string>
+</resources>
